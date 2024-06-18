@@ -40,7 +40,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: "/Sarala_MCA_2023_PYTHON_FRONTEND_CV.pdf",
+            href: "/saralaresume2.pdf",
             style: "rounded-br-md",
             download: true,
         }
